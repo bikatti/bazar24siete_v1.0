@@ -33,6 +33,8 @@ Para crear el proyecto y dejarlo listo para producción, corre el comando `yarn 
 
 Los autores de este proyecto son:
 
+* **Bikatti** (María Sierra Bohorquez) - Desarrollo Frontend - [website](https://bikatti.com)
+
 ---
 ⌨️ con ❤️ por [Bikatti](https://github.com/bikatti) 😊
-* **Bikatti** (María Sierra Bohorquez) - Desarrollo Frontend - [website](https://bikatti.com)
+
